@@ -1,2 +1,2 @@
 # Basic to Advance - Python 
-1) Practice 1 - solve code 
+1) Practice 1 - solve code - Difficulty :258
