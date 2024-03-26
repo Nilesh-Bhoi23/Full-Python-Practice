@@ -1,6 +1,11 @@
 # Basic to Advance - Python 
 1. Session 1 - variables, data-types, operaters, user-input.
-2. Session 2 - 
+2. Session 2 - Loops , while Loop, String datatype,String Function,<br>
+   Data Structures <br>
+   * List
+   * Tuple
+   * Set
+   * Dictionary
 _____________________________
 1) Practice 1 - solve code - Difficulty :258
 2) Practice 2 - solve code - Difficulty : 257
