@@ -9,6 +9,7 @@
    * List Advance Indexing and Slacing
 3. Session 3 - Functions, User_input, List Comprehension
 4. Session 4 -   
+5. Session 5 - Extra list Comprehensions, Anonymised Function
 _____________________________
 1) Practice 1 - solve code - Difficulty :258
 2) Practice 2 - solve code - Difficulty : 257
@@ -17,4 +18,4 @@ _____________________________
 5) Practice 5 - solve code - Enroll Class
 6) Practice 6 - solve code - Cricket Match
 7) Practice 7 - solve code
-7) Practice 8 - solve code
+8) Practice 8 - solve code
