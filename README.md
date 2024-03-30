@@ -10,6 +10,7 @@
 3. Session 3 - Functions, User_input, List Comprehension
 4. Session 4 -   
 5. Session 5 - Extra list Comprehensions, Anonymised Function
+6. Session 6 -
 _____________________________
 1) Practice 1 - solve code - Difficulty :258
 2) Practice 2 - solve code - Difficulty : 257
