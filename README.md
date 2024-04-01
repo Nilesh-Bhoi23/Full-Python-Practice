@@ -8,7 +8,7 @@
    * Dictionary
    * List Advance Indexing and Slacing
 3. Session 3 - Functions, User_input, List Comprehension.
-4. Session 4 -   
+4. Session 4 - str funtions , list,dic,tuple set- Functions , 
 5. Session 5 - Extra list Comprehensions, Anonymised Function .
 6. Session 6 - FileHandling in Python,Text File,Json file,Pickle File, Exception Handling.
 7. Session 7 - importing the Library, Dataframe using Dictionary,Data Manipulation.
