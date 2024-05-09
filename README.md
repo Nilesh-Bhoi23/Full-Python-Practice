@@ -21,3 +21,5 @@ _____________________________
 6) Practice 6 - solve code - Cricket Match
 7) Practice 7 - solve code - 
 8) Practice 8 - solve code
+9) Practice_Q 9
+10) 
