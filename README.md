@@ -1,4 +1,4 @@
-# Basic to Advance - Python 
+# Basic to Advance - Python
 1. Session 1 - variables, data-types, operaters, user-input.
 2. Session 2 - Loops , while Loop, String datatype,String Function,<br>
    Data Structures <br>
