@@ -18,10 +18,9 @@
 3) Practice 3 - solve code - Tour of King : 283
 4) Practice 4 - solve code - Tax in Chefland : 276
 5) Practice 5 - solve code - Enroll Class
-6) Practice 6 - solve code - Cricket Match
+6) Practice 6 - solve code - Cricket Match -
 7) Practice 7 - solve code - 
 8) Practice 8 - solve code
 9) Practice_Q 9
 10) file name - practice_8 - Bidding 
-11) Practice_11 :Overspeeding fine
-
+11) Practice_11 :Overspeeding fine - 350 - 400
